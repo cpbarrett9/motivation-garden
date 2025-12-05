@@ -1,0 +1,37 @@
+[
+  {
+    "title": "test",
+    "category": "Easy Wins",
+    "completed": true
+  },
+  {
+    "title": "read a book",
+    "category": "Easy Wins",
+    "completed": true
+  },
+  {
+    "title": "watch a film",
+    "category": "Easy Wins",
+    "completed": true
+  },
+  {
+    "title": "coding",
+    "category": "Easy Wins",
+    "completed": true
+  },
+  {
+    "title": "hi",
+    "category": "Easy Wins",
+    "completed": true
+  },
+  {
+    "title": "Get out of bed",
+    "category": "Easy Wins",
+    "completed": true
+  },
+  {
+    "title": "Look in the mirror",
+    "category": "Easy Wins",
+    "completed": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "tree",
+    "price": 10,
+    "positionX": 6,
+    "positionY": 5
+  },
+  {
+    "type": "tree",
+    "price": 10,
+    "positionX": 1,
+    "positionY": 5
+  },
+  {
+    "type": "flower",
+    "price": 5,
+    "positionX": 6,
+    "positionY": 7
+  },
+  {
+    "type": "flower",
+    "price": 5,
+    "positionX": 10,
+    "positionY": 1
+  },
+  {
+    "type": "flower",
+    "price": 5,
+    "positionX": 16,
+    "positionY": 13
+  },
+  {
+    "type": "tree",
+    "price": 10,
+    "positionX": 2,
+    "positionY": 10
+  }
+]

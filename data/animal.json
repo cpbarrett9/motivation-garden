@@ -1,0 +1,32 @@
+[
+  {
+    "type": "chicken",
+    "price": 15,
+    "positionX": 1,
+    "positionY": 12
+  },
+  {
+    "type": "cow",
+    "price": 25,
+    "positionX": 10,
+    "positionY": 6
+  },
+  {
+    "type": "pig",
+    "price": 20,
+    "positionX": 3,
+    "positionY": 8
+  },
+  {
+    "type": "chicken",
+    "price": 15,
+    "positionX": 2,
+    "positionY": 1
+  },
+  {
+    "type": "cow",
+    "price": 25,
+    "positionX": 10,
+    "positionY": 5
+  }
+]

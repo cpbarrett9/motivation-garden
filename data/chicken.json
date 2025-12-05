@@ -1,0 +1,9 @@
+[
+  {
+    "moveChance": 0.2,
+    "type": "chicken",
+    "price": 15,
+    "positionX": 12,
+    "positionY": 16
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "type": "tree",
+    "price": 10,
+    "positionX": 6,
+    "positionY": 5
+  },
+  {
+    "type": "flower",
+    "price": 3,
+    "positionX": 5,
+    "positionY": 2
+  }
+]
