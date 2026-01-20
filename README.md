@@ -6,6 +6,7 @@ Programmed by:
   - Liyung Cui
   - Tram Nguyen
   - Chris Barrett
+
 My responsibilities: Garden GUI + Item logic.
 
 - How to run -
