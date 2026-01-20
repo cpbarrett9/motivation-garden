@@ -56,13 +56,11 @@ public class Main {
 		// load saved files gardenitems & tasks & coins
 		loadJson();
 
-		// ✅ Initialize the shared money system
-
 		StoreManager.init(); // sync StoreManager.money with TaskManager.money
 
 		GUI.drawWorld();
 
-		// ✅ Launch To-Do list window (shows the same coin balance)
+		// Launch To-Do list window (shows the same coin balance)
 		SwingUtilities.invokeLater(() -> {
 			JFrame todoFrame = new JFrame("To-Do List with clear");
 			todoFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
