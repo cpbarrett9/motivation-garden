@@ -29,7 +29,7 @@ import util.Constants;
  */
 
 public class Main {
-
+	
 	// Collections:
 //	static ArrayList<Animal> animals = new ArrayList<>(); // <- Animals and Plants are separated so they can be read by
 	static List<Cow> cows = new ArrayList<>();

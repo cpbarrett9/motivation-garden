@@ -59,9 +59,9 @@ public class GUI {
 	private static GardenItem ITEM_BEING_PLACED = null; // <- When the user is placing an item, store what that item is until they click on the grid to place it.
 
 //	Images:
-	private static String GARDEN_IMG = "../MotivationGarden/resources/images/ui/garden.png"; // <- Static images that are drawn every frame.
-	private static String BARN_IMG = "../MotivationGarden/resources/images/ui/barn.png";
-	private static String BACKGROUND_IMG = "../MotivationGarden/resources/images/ui/background.png";
+	private static String GARDEN_IMG = "resources/images/ui/garden.png"; // <- Static images that are drawn every frame.
+	private static String BARN_IMG = "resources/images/ui/barn.png";
+	private static String BACKGROUND_IMG = "resources/images/ui/background.png";
 	
 //	Constructor
 	public GUI() {
@@ -250,6 +250,7 @@ public class GUI {
 			if (sprite != null) { // <- If everything looks good, draw sprite on grid.
 				if (item instanceof Tree) {
 					UI.drawImage(sprite, getGUIX(x)-16, getGUIY(y)-60); // <- The tree is a bigger image, so draw it at a bit of an offset to make it look nice.
+					System.out.println("Drew sprite: "+sprite);
 				}
 				else UI.drawImage(sprite, getGUIX(x), getGUIY(y)); // <- Everything else draw normally
 			}

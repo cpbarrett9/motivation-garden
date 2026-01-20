@@ -27,9 +27,9 @@ public class StoreTile {
 	private int itemID;
 	private GardenItem item; // <- The StoreTile has an instance of the item it sells so it can get its properties
 	
-	private static String sprite = "../MotivationGarden/resources/images/ui/storetile.png"; // <- For drawing the StoreTile UI
-	private static String hoverSprite = "../MotivationGarden/resources/images/ui/storetile_highlight.png";
-	private static String treeIcon = "../MotivationGarden/resources/images/ui/tree_store_icon.png"; // <- Tree in the store have a different sprite than the tree class
+	private static String sprite = "resources/images/ui/storetile.png"; // <- For drawing the StoreTile UI
+	private static String hoverSprite = "resources/images/ui/storetile_highlight.png";
+	private static String treeIcon = "resources/images/ui/tree_store_icon.png"; // <- Tree in the store have a different sprite than the tree class
 
 //	Constructor:
 	public StoreTile(double x, double y, double xMin, double xMax, double yMin, double yMax, int id, GardenItem item) {

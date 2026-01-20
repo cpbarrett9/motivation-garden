@@ -1,37 +1,17 @@
 [
   {
-    "title": "test",
-    "category": "Easy Wins",
-    "completed": true
+    "title": "Create a task with the to-do list view",
+    "category": "Getting Started",
+    "completed": false
   },
   {
-    "title": "read a book",
-    "category": "Easy Wins",
-    "completed": true
+    "title": "Mark a task as complete to receive coins",
+    "category": "Getting Started",
+    "completed": false
   },
   {
-    "title": "watch a film",
-    "category": "Easy Wins",
-    "completed": true
-  },
-  {
-    "title": "coding",
-    "category": "Easy Wins",
-    "completed": true
-  },
-  {
-    "title": "hi",
-    "category": "Easy Wins",
-    "completed": true
-  },
-  {
-    "title": "Get out of bed",
-    "category": "Easy Wins",
-    "completed": true
-  },
-  {
-    "title": "Look in the mirror",
-    "category": "Easy Wins",
-    "completed": true
+    "title": "Click on a reward, and then on the garden to purchase an item",
+    "category": "Getting Started",
+    "completed": false
   }
 ]

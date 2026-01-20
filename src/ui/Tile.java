@@ -25,7 +25,7 @@ public class Tile {
 	private int x; // <- Where this tile is in the GUI (place where it's drawn on screen).
 	private int y;
 	
-	private String highlightImagePath = "../MotivationGarden/resources/images/ui/tile_highlight.png"; // <- This is drawn at the tile's x/y position when the mouse is hovering over this tile
+	private String highlightImagePath = "resources/images/ui/tile_highlight.png"; // <- This is drawn at the tile's x/y position when the mouse is hovering over this tile
 
 //	Constructor:
 	public Tile(int x, int y, double xMin, double xMax, double yMin, double yMax, int gridX, int gridY) {

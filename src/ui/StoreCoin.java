@@ -16,8 +16,8 @@ import manager.StoreManager;
 public class StoreCoin {
 
 	// Image file paths:
-	private static String sprite = "../MotivationGarden/resources/images/ui/coin.png";
-	private static String spriteRed = "../MotivationGarden/resources/images/ui/coin_red.png"; // <- The coin turns red when the user doesn't have enough money
+	private static String sprite = "resources/images/ui/coin.png";
+	private static String spriteRed = "resources/images/ui/coin_red.png"; // <- The coin turns red when the user doesn't have enough money
 	
 	public StoreCoin() {}
 	
